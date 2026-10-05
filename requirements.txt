@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+rdkit>=2024.3
+ml_dtypes>=0.4
+# torch: install the CPU build separately (smaller), see README
+# Q.ANT SDK (optional): cpu-backend wheel from the toolkit's GitHub releases, see README
+pytest>=8
